@@ -1,0 +1,18 @@
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 25px;
+  font-style: italic;
+}
+
+.qs {
+  font-style:italic;
+  background-color: rgb(255, 203, 203);
+}
+
+.as {
+  font-family:cursive; 
+  background-color: rgb(174, 255, 255);
+}
